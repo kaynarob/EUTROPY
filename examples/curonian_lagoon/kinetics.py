@@ -1,7 +1,7 @@
 # This file is part of Eutropy
 # Copyright (c) 2025 Burak Kaynaroglu
-# This program is free software distributed under the GPL-3.0 License 
-# A copy of the GPL-3.0 License can be found at 
+# This program is free software distributed under the MIT License 
+# A copy of the MIT License can be found at 
 # https://github.com/kaynarob/Eutropy/blob/main/LICENSE.md
 
 # Eutropy model kinetics for n-dimentional configuration - X box(es)
