@@ -3,8 +3,8 @@
 
 # Eutropy
 
-Eutrophication, Nutrient Transport, and Recycling Model for Aquatic Systems Optimized in Python combines a bentho-pelagic kinetic modeling component with a transport subroutine built on a box model framework using Just-in-Time compilation through Numba (a Python library). 
-* This approach significantly reduce computational time, particularly during model calibration and extended simulation runs. It includes comprehensive biogeochemical processes and allows integration with parameter estimation tools (such as PEST and PEST++).
+Eutrophication, Nutrient Transport, and Recycling Model for Aquatic Systems Optimized in Python combines a bentho-pelagic kinetic modeling component with a transport subroutine built on a box model framework using Just-in-Time compilation through [Numba](https://numba.pydata.org/) (a Python library). 
+* This approach significantly reduce computational time, particularly during model calibration and extended simulation runs. It includes comprehensive biogeochemical processes and allows integration with parameter estimation tools (such as [PEST](https://pesthomepage.org/) and [PEST++](https://github.com/usgs/pestpp)).
 
 ## Overview
 
@@ -77,7 +77,7 @@ py -3.9 Eutropy.py
 ### Results Visualization
 
 Web-based platform for visualizing:
-* [Model outputs with statistics.](http://laguna.ku.lt:3838/sample-apps/Eutro0.2/)
+* [Model outputs with statistics.](http://laguna.ku.lt:3838/sample-apps/EUTROPY/)
 
 Scripts for visualizing:
 
